@@ -43,8 +43,5 @@ gantt
     section 使用者測試
     25天:a11,after a9, 25d
 ```
-# 關鍵路徑
----
-![CPM_img 圖](關鍵.jpg)
-***
+
 
